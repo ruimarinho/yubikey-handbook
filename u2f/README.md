@@ -15,4 +15,8 @@ When registering the Yubikey as a Security Key, a good alias may be `Yubikey (<s
 - Dropbox
 - Sentry
 
+![](../images/sentry-u2f.png)
+
+_U2F device registration at [sentry.io](https://sentry.io)_
+
 There is a great article _[Security Keys: Practical Cryptographic Second Factors for the Modern Web](http://fc16.ifca.ai/preproceedings/25_Lang.pdf)_ from Google detailing their experience deploying more than 50,000 Security Keys to their employees.
