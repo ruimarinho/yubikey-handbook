@@ -1,7 +1,8 @@
 {
   "plugins": [
+    "anchors",
+    "expandable-chapters-small",
     "github",
-    "headings",
     "image-captions",
     "splitter",
     "toggle-chapters"
