@@ -1,5 +1,9 @@
 ## Device initialization
 
+![](../images/yubikey-4-trio.png)
+
+_Source: Yubico_
+
 Device initialization is straightforward but requires some organization around secret management. In the future, this can be improved by defining a group policy distributed via MDM which can enforce some of the settings mentioned below.
 
 1. Enter a new PIN with 8 numeric characters if macOS login is intended. macOS won't work if the PIN contains alphanumeric characters. Generate and store this PIN securely on a password manager.
