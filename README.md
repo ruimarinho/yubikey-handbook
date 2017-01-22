@@ -9,3 +9,7 @@ The _Yubikey Handbook_ is an attempt of exploring those use cases and is intende
 _Source: Yubico_
 
 This book is [available online for free](https://ruimarinho.gitbooks.io/yubikey-handbook/content/) and is downloadable in [PDF](https://www.gitbook.com/download/pdf/book/ruimarinho/yubikey-handbook), [ePUB](https://www.gitbook.com/download/epub/book/ruimarinho/yubikey-handbook) or [Mobi/Kindle](https://www.gitbook.com/download/mobi/book/ruimarinho/yubikey-handbook) formats.
+
+# About the author
+
+Rui Marinho ([github](https://github.com/ruimarinho), [twitter](https://twitter.com/ruipmarinho), [npm](https://www.npmjs.com/~ruimarinho)) is a software engineer by day, a security engineer by night and a network engineer on weekends. This blend of interests has allowed him to plan and build large-scale infrastructure projects, having specialized in mission-critical and highly available systems with security as one of its top priorities. [Read more](introduction/about-the-author.md).
