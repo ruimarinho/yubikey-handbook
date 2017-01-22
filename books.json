@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    "github",
+    "headings",
+    "image-captions",
+    "splitter",
+    "toggle-chapters"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/ruimarinho?tab=repositories"
+    }
+  }
+}
