@@ -1,6 +1,6 @@
 #### Enabling touch protection
 
-Install [https://developers.yubico.com/Yubikey-manager/](Yubikey-manager) on a permanent destination:
+Install [https://developers.yubico.com/yubikey-manager/](Yubikey-manager) on a permanent destination:
 
 ```sh
 ❯ brew install libu2f-host libusb swig ykpers
