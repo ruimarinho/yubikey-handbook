@@ -12,6 +12,10 @@ _Source: Yubico_
 
 This book is [available online for free](https://ruimarinho.gitbooks.io/yubikey-handbook/content/) and is downloadable in [PDF](https://www.gitbook.com/download/pdf/book/ruimarinho/yubikey-handbook), [ePUB](https://www.gitbook.com/download/epub/book/ruimarinho/yubikey-handbook) or [Mobi/Kindle](https://www.gitbook.com/download/mobi/book/ruimarinho/yubikey-handbook) formats.
 
+# Translations
+
+- [这本书的中文版本](https://github.com/iamtwz/yubikey-handbook-chinese) − [WenzelTian](https://github.com/iamtwz).
+
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
