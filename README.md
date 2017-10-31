@@ -1,6 +1,6 @@
 # Yubikey Handbook
 
-_Now featured on the [3rd-Party Labs (3PL) - YubiKey Innovations and Inspirations](https://forum.yubico.com/viewtopic.php?f=8&t=1942) compilation_.
+_Featured on the [3rd-Party Labs (3PL) - YubiKey Innovations and Inspirations](https://forum.yubico.com/viewtopic.php?f=8&t=1942) compilation_.
 
 Yubikey is an hardware device manufactured by Yubico that provides several forms of strong authentication and encryption. It has many use cases and interesting applications.
 
@@ -11,6 +11,10 @@ The _Yubikey Handbook_ is an attempt of exploring those use cases and is intende
 _Source: Yubico_
 
 This book is [available online for free](https://ruimarinho.gitbooks.io/yubikey-handbook/content/) and is downloadable in [PDF](https://www.gitbook.com/download/pdf/book/ruimarinho/yubikey-handbook), [ePUB](https://www.gitbook.com/download/epub/book/ruimarinho/yubikey-handbook) or [Mobi/Kindle](https://www.gitbook.com/download/mobi/book/ruimarinho/yubikey-handbook) formats.
+
+# Translations
+
+- [这本书的中文版本](https://github.com/iamtwz/yubikey-handbook-chinese) − [WenzelTian](https://github.com/iamtwz).
 
 # License
 
