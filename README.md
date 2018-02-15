@@ -16,6 +16,30 @@ This book is [available online for free](https://ruimarinho.gitbooks.io/yubikey-
 
 - [这本书的中文版本](https://github.com/iamtwz/yubikey-handbook-chinese) − [WenzelTian](https://github.com/iamtwz).
 
+# Local editing
+
+If you would like to checkout a local copy of gitbook to test out changes, you can do so very easily.
+
+First, install the `gitbook-cli` dependency globally via npm:
+
+```sh
+npm install -g gitbook-cli
+```
+
+Then, install gitbook's dependencies:
+
+```sh
+gitbook install
+```
+
+Finally, serve the book via the built-in gitbook's webserver:
+
+```sh
+gitbook serve
+```
+
+This command will terminate with a message about the host and port where the server is running, usually at [http://localhost:4040](http://localhost:4040).
+
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
