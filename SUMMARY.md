@@ -64,3 +64,4 @@
 		- [Configuring HMAC-SHA1 Challenge-Response](macos/offline-authentication/configuration.md)
 	- [Login and keychain authentication](macos/login/README.md)
 		- [Managing pairing](macos/login/managing-pairing.md)
+	- [Lock system when Yubikey removed](macos/lock-when-removed/README.md)
